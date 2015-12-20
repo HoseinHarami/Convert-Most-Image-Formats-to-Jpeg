@@ -1,0 +1,6 @@
+c:\users\hosein\documents\visual studio 2013\Projects\JPG Compressor\bin\Debug\JPG Compressor.exe.config
+c:\users\hosein\documents\visual studio 2013\Projects\JPG Compressor\bin\Debug\JPG Compressor.exe
+c:\users\hosein\documents\visual studio 2013\Projects\JPG Compressor\bin\Debug\JPG Compressor.pdb
+c:\users\hosein\documents\visual studio 2013\Projects\JPG Compressor\obj\Debug\JPG Compressor.csprojResolveAssemblyReference.cache
+c:\users\hosein\documents\visual studio 2013\Projects\JPG Compressor\obj\Debug\JPG Compressor.exe
+c:\users\hosein\documents\visual studio 2013\Projects\JPG Compressor\obj\Debug\JPG Compressor.pdb

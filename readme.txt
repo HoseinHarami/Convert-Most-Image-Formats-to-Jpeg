@@ -1,0 +1,1 @@
+It's a simple project that uses System.Drawing and System.Drawing.Imaging to convert most image formats to Jpeg in C#.
